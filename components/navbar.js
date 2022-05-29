@@ -12,7 +12,7 @@ export default function Navbar() {
   },
   
    { name: "About Us", 
-    path: "https://techarima.com/about-us" 
+    path: "/about-us" 
    },
    { name: "Blog", 
     path: "https://blog.arima.io" 
@@ -33,7 +33,7 @@ export default function Navbar() {
                   <a className="flex items-center space-x-2 text-2xl font-medium text-[#00519d] dark:text-gray-100">
                     <span>
                       <img
-                        src="/img/talentegra.svg"
+                        src="/img/cloudobby.jpg"
                         alt="N"
                         width="200"
                         height="200"

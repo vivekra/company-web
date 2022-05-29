@@ -39,7 +39,7 @@ export default function Footer() {
                 <a className="flex items-center space-x-2 text-2xl font-medium text-[#00519d] dark:text-gray-100">
                   <span>
                     <img
-                      src="/img/talentegra.svg"
+                      src="/img/cloudobby.jpg"
                       alt="N"
                       width="160"
                       height="160"

@@ -47,7 +47,7 @@ export default function Home() {
         <title>Talentegra - An Education Consulting Company</title>
         <meta
           name="description"
-          content="Arima - Get Delight in blockchain and metaverse"
+          content="Talentegra - Get Delight in blockchain and metaverse"
         />
         <link rel="icon" href="/favicon.ico" />
       </Head>

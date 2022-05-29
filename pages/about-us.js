@@ -56,7 +56,7 @@ export default function Aboutus() {
               About US
             </h1>
             <p className="py-5 text-xl leading-normal text-gray-500 lg:text-xl xl:text-2xl dark:text-gray-300">
-            Learn how we helped our several clients grow in online business.It will give you an idea of our capabilities.
+            Learn how we helped our several clients grow in their core business.It will give you an idea of our capabilities.
             </p>
 
          
@@ -117,9 +117,19 @@ We believe in using the right technology for the problems at hand. Because techn
               How we do it?
             </h1>
             <p className="py-5 text-xl leading-normal text-gray-500 lg:text-xl xl:text-2xl dark:text-gray-300">
-            First, we get a feel for what your goals are and how your product will work; we can't help you out of the muck until everyone knows what needs to be done. Then, we cover all the bases by starting at the bottom of the infrastructure and working our way up. Work on the Blockchain or Cloud Infrastructure, making sure you have all the basic services you need to be successful.   </p>
+            First, we get a feel for what your goals are and how your product will work; we can't help you out of the muck until everyone knows what needs to be done. Then, we cover all the bases by starting at the bottom of the infrastructure and working our way up. Work on the Blockchain or Cloud Infrastructure, making sure you have all the basic services you need to be successful.   
+            Being the leader in IT Software Training sector Talentegra Technology Services holds the best and inevitable place in short time. To manage a company is a social process that processes consist of planning, control, co-ordination and motivation. Based on this our Talentegra Technology Services Chennai is a well-planned one. We are having the co-ordinators in dealing with all the subjects, lectures, problems and conclusions. We will motivate the student’s like fresher’s, job seekers and persons working in MNC’s. We achieved this part in a successful manner. Talentegra Technology Services entails a direct responsibility for the trainees. The company will understand more about one’s own capacity and weaknesses and based on these our technology will deal the trainees. We know our goals. To achieve our goals i.e.) giving training in all the supplementary courses related to software field to the needy people in a clear way without any doubts by using latest technologies structures, systems and procedures available with us.</p>
 
-         
+            <p className="py-5 text-xl leading-normal text-gray-500 lg:text-xl xl:text-2xl dark:text-gray-300">
+            Once again for achieving our goals we are preparing data’s to meet the trainees. According to that our activities and responsibilities are shared with the trainees. So, in order to meet the social and psychological needs of the trainee’s action plan will be prepared. By providing corrective mechanisms training will be provided to the trainees.</p>
+
+<p className="py-5 text-xl leading-normal text-gray-500 lg:text-xl xl:text-2xl dark:text-gray-300">Talentegra Technology Services Chennai establishes correct standard of performance. It is taking corrective actions which are appropriately needed to the trainees. Talentegra Technology Services is a place for everything and everything is in its place. The training is given with the right man in the right place. Since our company is situated in the Chrompet people in all walks of life know our company well. Humanity is a great strength for our company Talentegra Technology Services and team work has been encouraged here.</p>
+
+<p className="py-5 text-xl leading-normal text-gray-500 lg:text-xl xl:text-2xl dark:text-gray-300">We will share employment opportunists to all the trainees. From the past couple of years we are maintaining the placement record by 85%. So, judge yourself and join with Talentegra Technology Services for your future course of life.</p>
+
+<p className="py-5 text-xl leading-normal text-gray-500 lg:text-xl xl:text-2xl dark:text-gray-300">Talentegra Technology Services is a division of DigitalQ Information Services Pvt Ltd.</p>
+            
+
           </div>
         </div>
         <div className="flex items-center justify-center w-full lg:w-1/2">
