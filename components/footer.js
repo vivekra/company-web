@@ -6,10 +6,10 @@ import Container from "./container";
 export default function Footer() {
   const navigation = [
     { name: "Products", 
-    path: "https://techarima.com/products" 
+    path: "/products" 
    },
-   { name: "Services", 
-   path: "https://techarima.com/services" 
+   { name: "Courses", 
+   path: "/courses" 
   },
   
    { name: "About Us", 
@@ -39,7 +39,7 @@ export default function Footer() {
                 <a className="flex items-center space-x-2 text-2xl font-medium text-[#00519d] dark:text-gray-100">
                   <span>
                     <img
-                      src="/img/techarima.svg"
+                      src="/img/talentegra.svg"
                       alt="N"
                       width="160"
                       height="160"
@@ -52,7 +52,7 @@ export default function Footer() {
             </div>
 
             <div className="max-w-md mt-4 text-gray-500 dark:text-gray-400">
-              Arima - Create your own digital workspace and connect with your team.
+              Talentegra - Build your team by evaluating their skillset using our digital assessment platform.
             </div>
 
           
