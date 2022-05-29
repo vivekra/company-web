@@ -13,7 +13,7 @@ export default function Footer() {
   },
   
    { name: "About Us", 
-    path: "https://techarima.com/about-us" 
+    path: "/about-us" 
    },
    { name: "Blog", 
     path: "https://blog.arima.io" 
@@ -84,28 +84,28 @@ export default function Footer() {
             <div>Follow us</div>
             <div className="flex mt-5 space-x-5 text-gray-400 dark:text-gray-500">
               <a
-                href="https://twitter.com/arima_io"
+                href="https://twitter.com/talentegra"
                 target="_blank"
                 rel="noopener">
                 <span className="sr-only">Twitter</span>
                 <Twitter />
               </a>
               <a
-                href="https://facebook.com/techarima"
+                href="https://facebook.com/talentegra"
                 target="_blank"
                 rel="noopener">
                 <span className="sr-only">Facebook</span>
                 <Facebook />
               </a>
               <a
-                href="https://instagram.com/techarima"
+                href="https://instagram.com/talentegra"
                 target="_blank"
                 rel="noopener">
                 <span className="sr-only">Instagram</span>
                 <Instagram />
               </a>
               <a
-                href="https://linkedin.com/company/techarima"
+                href="https://linkedin.com/company/talentegra"
                 target="_blank"
                 rel="noopener">
                 <span className="sr-only">Linkedin</span>

@@ -30,10 +30,10 @@ export default function Privacy() {
   return (
     <>
       <Head>
-        <title>TechArima - A Blockchain Company</title>
+        <title>Talentegra - An Educational Consulting Company</title>
         <meta
           name="description"
-          content="TechArima - Made your future technology in blockchain and metaverse"
+          content="Talentegra - Develop your skills in a new technology using metaverse and blockchain"
         />
         <link rel="icon" href="/favicon.ico" />
       </Head>
@@ -41,24 +41,24 @@ export default function Privacy() {
       <Navbar />
       
       <SectionTitle
-        pretitle="TechArima"
+        pretitle="Talentegra"
         title="Privacy Policy">
-         TechArima uses cookies, IP addresses, and browser information. This information provides us with insight into how effective certain areas of our Web site are to users and how we might improve it.
+         Talentegra uses cookies, IP addresses, and browser information. This information provides us with insight into how effective certain areas of our Web site are to users and how we might improve it.
 
       </SectionTitle>
 
       <Container className="flex flex-wrap ">
       <div className="w-full max-w-2xl p-6 mx-auto">
-      <p> TechArima collects the information you provide when you send us e-mail and when you register.</p>
+      <p> Talentegra collects the information you provide when you send us e-mail and when you register.</p>
 
       <p className="leading-loose">
       <b>Sharing Collected Information</b>
 
-<p className="leading-relax">TechArima shares information with our partners ONLY for the sole purpose of better supporting our current and future customers.</p>
+<p className="leading-relax">Talentegra shares information with our partners ONLY for the sole purpose of better supporting our current and future customers.</p>
 
 <p><b>Third-Party Sites</b></p>
 
-<p className="leading-relax">Please be aware that other Web sites that may be accessed through our site may collect personally identifiable information about you. TechArima does not share your personal information with those Web sites and is not responsible for their privacy practices. Please check the applicable Privacy Policy of those sites.
+<p className="leading-relax">Please be aware that other Web sites that may be accessed through our site may collect personally identifiable information about you. Talentegra does not share your personal information with those Web sites and is not responsible for their privacy practices. Please check the applicable Privacy Policy of those sites.
 </p>
 <p className="leading-loose font-bold break-all">Security
 

@@ -40,10 +40,10 @@ export default function Courses() {
   return (
     <>
       <Head>
-        <title>TechArima - A Blockchain Company</title>
+        <title>Talentegra - An Education Consulting Company</title>
         <meta
           name="description"
-          content="TechArima - Made your future technology in blockchain and metaverse"
+          content="Talentegra - Develop your skills in a new technology using metaverse and blockchain"
         />
         <link rel="icon" href="/favicon.ico" />
       </Head>
